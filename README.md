@@ -34,5 +34,7 @@ The checkpoints for the assignment are as follows:
 
 6. Replace the data in ‘sold as vacant’ column, where Y with YES and N with NO to make the data uniform.
 
+7. Delete the unwanted columns from the dataset. 
+
 
 
